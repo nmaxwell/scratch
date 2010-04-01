@@ -1,0 +1,8 @@
+ext/crlibmmodule.c
+interval/__init__.py
+interval/fpu.py
+interval/imath.py
+pip-egg-info/pyinterval.egg-info/PKG-INFO
+pip-egg-info/pyinterval.egg-info/SOURCES.txt
+pip-egg-info/pyinterval.egg-info/dependency_links.txt
+pip-egg-info/pyinterval.egg-info/top_level.txt

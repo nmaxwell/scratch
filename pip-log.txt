@@ -1,0 +1,614 @@
+Downloading/unpacking pyinterval
+  Getting page http://pypi.python.org/simple/pyinterval
+  URLs to search for versions for pyinterval:
+  * http://pypi.python.org/simple/pyinterval/
+  Getting page http://pyinterval.googlecode.com/
+  Analyzing links from page http://pypi.python.org/simple/pyinterval/
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b21-py2.5-macosx-10.3-i386.egg#md5=5771aefb2253cc921c4eabe7e8590bad (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b14-py2.5-macosx-10.3-fat.egg#md5=6469f21a9641e30ec7dc016ae9cefd38 (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b21-py2.5-linux-i686.egg#md5=230e4ab6a640faf72fb5116ae2c63cf7 (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b21-py2.5-win32.egg#md5=95a0f5ca8b09331dd4183b51ac3fbea9 (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Found link http://pypi.python.org/packages/source/p/pyinterval/pyinterval-1.0b14.tar.gz#md5=270dd12a2b7b61ef49bacd9135196431 (from http://pypi.python.org/simple/pyinterval/), version: 1.0b14
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b14-py2.5-linux-i686.egg#md5=b36f2e1b2121a830ab88fc2e55662bbf (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.6/p/pyinterval/pyinterval-1.0b21-py2.6-linux-i686.egg#md5=90db9cfe7776b9dd6c0a41045cf34118 (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b21.win32-py2.5.exe#md5=fbdd7ddc0e6f0c42b8db02ead595797d (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .exe
+    Found link http://pypi.python.org/packages/source/p/pyinterval/pyinterval-1.0b21.tar.gz#md5=a65fe9855d3b6b0a9ddcc5b2f1e1e421 (from http://pypi.python.org/simple/pyinterval/), version: 1.0b21
+    Skipping link http://pypi.python.org/packages/2.5/p/pyinterval/pyinterval-1.0b14.win32-py2.5.exe#md5=c456998a50a6612ccc16a167ea8a5d7e (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.6/p/pyinterval/pyinterval-1.0b21-py2.6-macosx-10.3-fat.egg#md5=22d17e66aa68a3ca6905cb97ab70ccfd (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .egg
+    Skipping link http://pyinterval.googlecode.com/ (from http://pypi.python.org/simple/pyinterval/); not a file
+    Skipping link http://lipforge.ens-lyon.fr/www/crlibm/ (from http://pypi.python.org/simple/pyinterval/); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pypi.python.org/simple/pyinterval/); not a file
+    Skipping link http://pyinterval.googlecode.com/svn/trunk/html/index.html (from http://pypi.python.org/simple/pyinterval/); unknown archive format: .html
+  Analyzing links from page http://code.google.com/p/pyinterval/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyinterval/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/17891623693695439908/css/ph_core.css (from http://code.google.com/p/pyinterval/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/17891623693695439908/css/ph_detail.css (from http://code.google.com/p/pyinterval/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/17891623693695439908/css/d_ie.css (from http://code.google.com/p/pyinterval/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyinterval/ (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyinterval%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyinterval%2F (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/p/pyinterval/issues/list (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/p/pyinterval/source/checkout (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/p/pyinterval/updates/list (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/p/pyinterval/people/list (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://www.opensource.org/licenses/bsd-license.php (from http://code.google.com/p/pyinterval/); unknown archive format: .php
+    Skipping link http://code.google.com/hosting/search?q=label:python (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:interval (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:math (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://pypi.python.org/pypi/pyinterval/ (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/p/pyinterval/feeds (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/u/taschini/ (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyinterval/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyinterval/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyinterval/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyinterval/); not a file
+  Using version 1.0b21 (newest of versions: 1.0b21, 1.0b14)
+  Downloading pyinterval-1.0b21.tar.gz
+  Downloading from URL http://pypi.python.org/packages/source/p/pyinterval/pyinterval-1.0b21.tar.gz#md5=a65fe9855d3b6b0a9ddcc5b2f1e1e421 (from http://pypi.python.org/simple/pyinterval/)
+  Running setup.py egg_info for package pyinterval
+    running egg_info
+    creating pip-egg-info/pyinterval.egg-info
+    writing pip-egg-info/pyinterval.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/pyinterval.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/pyinterval.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/pyinterval.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/pyinterval.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/pyinterval.egg-info/SOURCES.txt'
+Installing collected packages: pyinterval
+  Running setup.py install for pyinterval
+    Running command /usr/bin/python -c "import setuptools; __file__='/workspace/scratch/build/pyinterval/setup.py'; execfile('/workspace/scratch/build/pyinterval/setup.py')" install --single-version-externally-managed --record /tmp/pip-ybLNOr-record/install-record.txt --install-headers /workspace/scratch/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.6
+    creating build/lib.linux-x86_64-2.6/interval
+    copying interval/fpu.py -> build/lib.linux-x86_64-2.6/interval
+    copying interval/imath.py -> build/lib.linux-x86_64-2.6/interval
+    copying interval/__init__.py -> build/lib.linux-x86_64-2.6/interval
+    copying ./LICENSE -> build/lib.linux-x86_64-2.6/interval
+    running build_ext
+    building 'crlibm' extension
+    creating build/temp.linux-x86_64-2.6
+    creating build/temp.linux-x86_64-2.6/ext
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -D_GNU_SOURCE -fPIC -fPIC -I/opt/crlibm/include -I/usr/include/python2.6 -c ext/crlibmmodule.c -o build/temp.linux-x86_64-2.6/ext/crlibmmodule.o
+    ext/crlibmmodule.c:7:20: error: crlibm.h: No such file or directory
+    ext/crlibmmodule.c: In function ‘crlibm_exp_rn’:
+    ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_exp_ru’:
+    ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_exp_rd’:
+    ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_exp_rz’:
+    ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_log_rn’:
+    ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_log_ru’:
+    ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_log_rd’:
+    ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_log_rz’:
+    ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_cos_rn’:
+    ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_cos_ru’:
+    ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_cos_rd’:
+    ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_cos_rz’:
+    ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_sin_rn’:
+    ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_sin_ru’:
+    ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_sin_rd’:
+    ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_sin_rz’:
+    ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_tan_rn’:
+    ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_tan_ru’:
+    ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_tan_rd’:
+    ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_tan_rz’:
+    ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_cospi_rn’:
+    ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_cospi_ru’:
+    ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_cospi_rd’:
+    ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_cospi_rz’:
+    ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_sinpi_rn’:
+    ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_sinpi_ru’:
+    ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_sinpi_rd’:
+    ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_sinpi_rz’:
+    ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_tanpi_rn’:
+    ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_tanpi_ru’:
+    ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_tanpi_rd’:
+    ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_tanpi_rz’:
+    ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_atan_rn’:
+    ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_atan_ru’:
+    ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_atan_rd’:
+    ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_atan_rz’:
+    ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_atanpi_rn’:
+    ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_atanpi_ru’:
+    ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_atanpi_rd’:
+    ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_atanpi_rz’:
+    ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_cosh_rn’:
+    ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_cosh_ru’:
+    ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_cosh_rd’:
+    ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_cosh_rz’:
+    ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_sinh_rn’:
+    ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_sinh_ru’:
+    ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_sinh_rd’:
+    ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_sinh_rz’:
+    ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_log2_rn’:
+    ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_log2_ru’:
+    ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_log2_rd’:
+    ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_log2_rz’:
+    ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_log10_rn’:
+    ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_log10_ru’:
+    ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_log10_rd’:
+    ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_log10_rz’:
+    ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_asin_rn’:
+    ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_asin_ru’:
+    ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_asin_rd’:
+    ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_asin_rz’:
+    ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_acos_rn’:
+    ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_acos_ru’:
+    ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_acos_rd’:
+    ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_acos_rz’:
+    ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_asinpi_rn’:
+    ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_asinpi_ru’:
+    ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_asinpi_rd’:
+    ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_asinpi_rz’:
+    ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_acospi_rn’:
+    ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_acospi_ru’:
+    ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_acospi_rd’:
+    ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_acospi_rz’:
+    ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_expm1_rn’:
+    ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_expm1_ru’:
+    ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_expm1_rd’:
+    ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_expm1_rz’:
+    ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_rz’
+    ext/crlibmmodule.c: In function ‘crlibm_log1p_rn’:
+    ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_rn’
+    ext/crlibmmodule.c: In function ‘crlibm_log1p_ru’:
+    ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_ru’
+    ext/crlibmmodule.c: In function ‘crlibm_log1p_rd’:
+    ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_rd’
+    ext/crlibmmodule.c: In function ‘crlibm_log1p_rz’:
+    ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_rz’
+    ext/crlibmmodule.c: In function ‘initcrlibm’:
+    ext/crlibmmodule.c:113: warning: implicit declaration of function ‘crlibm_init’
+    error: command 'gcc' failed with exit status 1
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/workspace/scratch/build/pyinterval/setup.py'; execfile('/workspace/scratch/build/pyinterval/setup.py')" install --single-version-externally-managed --record /tmp/pip-ybLNOr-record/install-record.txt --install-headers /workspace/scratch/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-x86_64-2.6
+
+creating build/lib.linux-x86_64-2.6/interval
+
+copying interval/fpu.py -> build/lib.linux-x86_64-2.6/interval
+
+copying interval/imath.py -> build/lib.linux-x86_64-2.6/interval
+
+copying interval/__init__.py -> build/lib.linux-x86_64-2.6/interval
+
+copying ./LICENSE -> build/lib.linux-x86_64-2.6/interval
+
+running build_ext
+
+building 'crlibm' extension
+
+creating build/temp.linux-x86_64-2.6
+
+creating build/temp.linux-x86_64-2.6/ext
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -D_GNU_SOURCE -fPIC -fPIC -I/opt/crlibm/include -I/usr/include/python2.6 -c ext/crlibmmodule.c -o build/temp.linux-x86_64-2.6/ext/crlibmmodule.o
+
+ext/crlibmmodule.c:7:20: error: crlibm.h: No such file or directory
+
+ext/crlibmmodule.c: In function ‘crlibm_exp_rn’:
+
+ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_exp_ru’:
+
+ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_exp_rd’:
+
+ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_exp_rz’:
+
+ext/crlibmmodule.c:40: warning: implicit declaration of function ‘exp_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_log_rn’:
+
+ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_log_ru’:
+
+ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_log_rd’:
+
+ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_log_rz’:
+
+ext/crlibmmodule.c:41: warning: implicit declaration of function ‘log_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_cos_rn’:
+
+ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_cos_ru’:
+
+ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_cos_rd’:
+
+ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_cos_rz’:
+
+ext/crlibmmodule.c:42: warning: implicit declaration of function ‘cos_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_sin_rn’:
+
+ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_sin_ru’:
+
+ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_sin_rd’:
+
+ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_sin_rz’:
+
+ext/crlibmmodule.c:43: warning: implicit declaration of function ‘sin_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_tan_rn’:
+
+ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_tan_ru’:
+
+ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_tan_rd’:
+
+ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_tan_rz’:
+
+ext/crlibmmodule.c:44: warning: implicit declaration of function ‘tan_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_cospi_rn’:
+
+ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_cospi_ru’:
+
+ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_cospi_rd’:
+
+ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_cospi_rz’:
+
+ext/crlibmmodule.c:45: warning: implicit declaration of function ‘cospi_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinpi_rn’:
+
+ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinpi_ru’:
+
+ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinpi_rd’:
+
+ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinpi_rz’:
+
+ext/crlibmmodule.c:46: warning: implicit declaration of function ‘sinpi_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_tanpi_rn’:
+
+ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_tanpi_ru’:
+
+ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_tanpi_rd’:
+
+ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_tanpi_rz’:
+
+ext/crlibmmodule.c:47: warning: implicit declaration of function ‘tanpi_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_atan_rn’:
+
+ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_atan_ru’:
+
+ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_atan_rd’:
+
+ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_atan_rz’:
+
+ext/crlibmmodule.c:48: warning: implicit declaration of function ‘atan_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_atanpi_rn’:
+
+ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_atanpi_ru’:
+
+ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_atanpi_rd’:
+
+ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_atanpi_rz’:
+
+ext/crlibmmodule.c:49: warning: implicit declaration of function ‘atanpi_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_cosh_rn’:
+
+ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_cosh_ru’:
+
+ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_cosh_rd’:
+
+ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_cosh_rz’:
+
+ext/crlibmmodule.c:50: warning: implicit declaration of function ‘cosh_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinh_rn’:
+
+ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinh_ru’:
+
+ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinh_rd’:
+
+ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_sinh_rz’:
+
+ext/crlibmmodule.c:51: warning: implicit declaration of function ‘sinh_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_log2_rn’:
+
+ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_log2_ru’:
+
+ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_log2_rd’:
+
+ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_log2_rz’:
+
+ext/crlibmmodule.c:52: warning: implicit declaration of function ‘log2_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_log10_rn’:
+
+ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_log10_ru’:
+
+ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_log10_rd’:
+
+ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_log10_rz’:
+
+ext/crlibmmodule.c:53: warning: implicit declaration of function ‘log10_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_asin_rn’:
+
+ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_asin_ru’:
+
+ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_asin_rd’:
+
+ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_asin_rz’:
+
+ext/crlibmmodule.c:54: warning: implicit declaration of function ‘asin_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_acos_rn’:
+
+ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_acos_ru’:
+
+ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_acos_rd’:
+
+ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_acos_rz’:
+
+ext/crlibmmodule.c:55: warning: implicit declaration of function ‘acos_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_asinpi_rn’:
+
+ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_asinpi_ru’:
+
+ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_asinpi_rd’:
+
+ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_asinpi_rz’:
+
+ext/crlibmmodule.c:56: warning: implicit declaration of function ‘asinpi_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_acospi_rn’:
+
+ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_acospi_ru’:
+
+ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_acospi_rd’:
+
+ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_acospi_rz’:
+
+ext/crlibmmodule.c:57: warning: implicit declaration of function ‘acospi_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_expm1_rn’:
+
+ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_expm1_ru’:
+
+ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_expm1_rd’:
+
+ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_expm1_rz’:
+
+ext/crlibmmodule.c:58: warning: implicit declaration of function ‘expm1_rz’
+
+ext/crlibmmodule.c: In function ‘crlibm_log1p_rn’:
+
+ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_rn’
+
+ext/crlibmmodule.c: In function ‘crlibm_log1p_ru’:
+
+ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_ru’
+
+ext/crlibmmodule.c: In function ‘crlibm_log1p_rd’:
+
+ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_rd’
+
+ext/crlibmmodule.c: In function ‘crlibm_log1p_rz’:
+
+ext/crlibmmodule.c:59: warning: implicit declaration of function ‘log1p_rz’
+
+ext/crlibmmodule.c: In function ‘initcrlibm’:
+
+ext/crlibmmodule.c:113: warning: implicit declaration of function ‘crlibm_init’
+
+error: command 'gcc' failed with exit status 1
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/workspace/scratch/build/pyinterval/setup.py'; execfile('/workspace/scratch/build/pyinterval/setup.py')" install --single-version-externally-managed --record /tmp/pip-ybLNOr-record/install-record.txt --install-headers /workspace/scratch/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/site-packages/pip/commands/install.py", line 157, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/site-packages/pip/req.py", line 1165, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/site-packages/pip/req.py", line 533, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/site-packages/pip/__init__.py", line 206, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/workspace/scratch/build/pyinterval/setup.py'; execfile('/workspace/scratch/build/pyinterval/setup.py')" install --single-version-externally-managed --record /tmp/pip-ybLNOr-record/install-record.txt --install-headers /workspace/scratch/lib/include failed with error code 1

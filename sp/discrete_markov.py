@@ -77,12 +77,14 @@ if __name__ == "__main__":
     Pij = array([[0.01,0.01,0.98],[0.8,0.1,0.1],[0.05,.9,0.05]])
     #Pij = array([[1.,0.,0.],[0.,1.,0.],[0.,0.,1.]])
     
-    n_paths = 10000
+    X0 = 2
+    v = zeros(3)
+    v[X0] = 1
+    
+    n_paths = 5000
     len_path = 5
     
-    X0 = 2
-    v = zeros(len(Pij))
-    v[X0] = 1
+    print v
     
     X = [ sample_path( 2, len_path, Pij)  for n in range(n_paths) ]
     
@@ -99,6 +101,8 @@ if __name__ == "__main__":
     
     #   , '\n', [ sum(p[k][i]) for i in range(len(p[k])) ]
     
+    
+    
     """
     import pylab as p
     
@@ -107,5 +111,4 @@ if __name__ == "__main__":
     
     p.show()
     """
-
 
